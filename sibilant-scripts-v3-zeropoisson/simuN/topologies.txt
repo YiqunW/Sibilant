@@ -1,0 +1,2 @@
+combinations_1	combinations_2	combinations_3	pT_g_sum_1	pT_g_sum_2	pT_g_sum_3	pT_g_sum_4	pT_g_sum_5	ncandid	tlikely	plikely
+1	2	3	0.0001	0.771387255316265	5.62235403074579e-24	4.43600429740735e-11	0.228612744639375	1	1	0.771387255316265
